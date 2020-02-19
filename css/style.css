@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:768px){
+	
+	p{font-size:14pt;}
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover{
+	background-color:red;
+}
+.slideshow{
+	width:100%;
+}
+#myCarousel{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.row{
+	margin-bottom: 50px;
+}
+.abouttext{
+	font-size:14pt;
+	line-height: 30px;
+}
+.titr1{
+	margin-bottom: 20px;
+}
+.place{
+	height: 300px;
+	background-image: url(../image/place.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+.r1{
+	height: 300px;
+	background-color: rgba(20,20,20,0.5);
+	
+}
+h2{
+	height: 300px;
+	line-height: 300px;
+	color: #ffffff;
+	font-size: 40pt;
+	text-shadow: 1px 1px 3px #000000;
+	
+}
+.btn-link{
+	font-size: 40pt;
+	color: bisque;
+}
+.glyphicon{
+	margin-right:5px;
+}
+.pro-img{
+	margin-bottom: 25px;
+	cursor: pointer;
+}
+/* faq page*/
+.p1{
+	margin-top: 50px;
+}
+.map{
+	height: 400px;
+}
+/*contact*/
+.f1{
+	margin-bottom:25px;
+}
+/* about */
+.p2{
+	margin-top: 50px;
+}
+.c1{
+	height:100px;
+}
+.text1{
+	font-size: 19px;
+	margin-top: 20px;
+}
+.imgaza{
+	width:300px;
+	height:300px;
+	box-shadow: 5px 5px 5px 0px black;
+}
+.subject{
+	font-size: 20pt;
+}
+.subject1{
+	font-size: 20pt;
+	margin-top: 50px;
+}
